@@ -1,0 +1,20 @@
+{
+	"home": [
+		{
+			"ProductName": "Brocolli - 1 Kg",
+			"ProductQuantity": "10"
+		},
+		{
+			"ProductName": "Beans - 1 Kg",
+			"ProductQuantity": "10"
+		},
+		{
+			"ProductName": "Carrot - 1 Kg",
+			"ProductQuantity": "10"
+		},
+		{
+			"ProductName": "Tomato - 1 Kg",
+			"ProductQuantity": "10"
+		}
+	]
+}
